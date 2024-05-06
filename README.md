@@ -1,3 +1,16 @@
+## Couchsurfing Frontend Exercise
+
+# Screenshots
+
+![Screenshot 2024-05-06 at 3 28 50 p m](https://github.com/Diego-Fu/couchsurfing-frontend-exercise/assets/11130657/56f7c072-ecd8-48b2-b457-0f76ac63404a)
+
+
+![Screenshot 2024-05-06 at 3 28 36 p m](https://github.com/Diego-Fu/couchsurfing-frontend-exercise/assets/11130657/4ffb06af-b98f-4646-b9a4-d10546df069f)
+
+
+![Screenshot 2024-05-06 at 3 28 25 p m](https://github.com/Diego-Fu/couchsurfing-frontend-exercise/assets/11130657/a685d4d9-f16a-49a5-be44-d48af4cfec45)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
